@@ -1,1 +1,1 @@
-Hell, Daniel and welcome to Git and GitHub
+Hello, Daniel and welcome to Git and GitHub
